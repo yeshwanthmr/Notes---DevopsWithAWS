@@ -1,1 +1,115 @@
+Software Development Life Cycle
+  -> Planning - Requirement analysis
+  -> Design - General requirements to  physical requirements (LLD,HLD)
+  -> Implentation
+  -> Deployment
+  -> Testing
+  -> Monitoring
+
+Waterfall vs Agile 
+
+EX: School Management System
+Stakeholders;
+Parents
+Students
+Teachers
+
+50 years back schools conduct onle once final exam 
+Pass percentage : 40%
+
+Day 1: 
+Students : not serious about exams
+Teachers : not serious about teaching
+Parents  : They worry about their children from starting day
+
+More Exams --> Process Change
+Unit test - I, II, III, Quaterly , IV , Half yearly, grandtest
+
+Day 30 (before 30 days exams)
+Students : Not Serious
+Teachers : Serious
+Parents : Serious
+
+Pass / Fail -> 25%,30%,35%,50%,70%(Final) (Improvement)
+90% Literacy Rate
+
+Slip-test --> Daily test ( 99% accuarcy literacy rate)
+Students -> Serious
+Teachers -> Serious
+Parents -> Serious
+
+IT Stake holders
+Clients
+Developers
+Testers 
+Operations
+Users
+
+Waterfall:
+  Once requirements are fixed we can't change
+  2 years project to go for production
+  last 1 year
+  last 1 month deploy : 100 defects
+  20 invalid defects + 80 valid defects
+
+Agile:
+  item -> 1 test -> 2 defects
+  1000 test -> 3 defects
+  Final Product -> Multiple Modules -> Sprints
+  Login and SignUp --> Sprint 1 (30 Days time)
+  Orders
+  Menu
+  Payment
+  Shipping
+  Cart
+  review
+  employees
+
+  Sprint 1 : Clients UAT (User acceptance Testing)
+  daily standups
+  95% -> 5 total defects,1 invalid defect and 4 valid defects
+
+  Sprint 2 : Orders + 4 defects
+  15 days development 15 days testing & deployment
+
+  Process Change -> Devops
+  SignUp and Login -> Enter first name , Enter last name , Enter DOB
+  Deploy the same day , test on the same day
+  10 defects -> 1 invalid defect
+
+
+What is DevOps ?
+Devops is a process of buliding,deploying,testing the code written by developer on same day instead of doing after complete develoment
+We can achieve by using continuos integration, continuos deployment , continuos testing , continuos delivering
+We can do faster released with less defects using devops with agile 
+Basically automation mindset to get the best results.
+
+Linux VS Unix
+Unix : Hardware and Software (OS) together (disadvantges)
+CPU , RAM , HardWare , Os(Software)
+Laptop == IBM Bios
+
+Linux:
+From the Stratch Using C Language based on UNIX Principles He invented git to store this
+
+Windows (Disadvantages)'
+not Open Source
+Costly
+not Secure install anti virus
+to many graphics
+frequent restarts
+tough to update or upgrade
+
+Linux : 9MB
+Secore
+free
+low resouces'install or update packages is easy
+high speed - > mostly text
+
+
+
+
+
+
+
 
